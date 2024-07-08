@@ -2,5 +2,5 @@
 
 if [[ ! $1 ]]
 then
-  echo HI
+  echo Please provide an element as an argument.
 fi
