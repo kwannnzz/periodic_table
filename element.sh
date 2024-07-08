@@ -3,4 +3,4 @@
 if [[ ! $1 ]]
 then
   echo HI
-do
+fi
